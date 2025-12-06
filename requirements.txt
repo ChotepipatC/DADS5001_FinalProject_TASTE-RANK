@@ -1,0 +1,11 @@
+streamlit
+streamlit-extras
+pandas
+duckdb
+gspread
+oauth2client
+plotly
+bcrypt
+st_annotated_text
+scikit-learn
+ollama
