@@ -4,10 +4,11 @@
 * Code ที่อยู่บน Github นี้ ยังไม่สามารถใช้งานได้ จะต้องดำเนินการตามขั้นตอนดังนี้<br>
 > 1. ดาวน์โหลดไฟล์ทั้งหมดเป็น zip file นำไปไว้ใน path ที่ต้องการ แล้ว unzip
 > 2. แก้ไขไฟล์ service_account.json เป็นไฟล์ service secret ของ Google Sheet API 
-> 3. เข้าไปในโฟเดอร์ที่ unzip ไว้ (... restaurant_review_app 3 > restaurant_review_app ) พิมพ์ cmd ใน url box
-> 4. ใน cmd พิมพ์ myenv\Scripts\activate
-> 5. พิมพ์ pip install -r requirments.txt
-> 6. พิมพ์ streamlit run App.py
+> 3. เข้าไปในโฟเดอร์ที่ unzip ไว้  พิมพ์ cmd ใน url box
+> 4. ใน cmd พิมพ์ python -m venv myenv
+> 5. ใน cmd พิมพ์ myenv\Scripts\activate
+> 6. พิมพ์ pip install -r requirements.txt
+> 7. พิมพ์ streamlit run App.py
 
 ## Member
 <br>
