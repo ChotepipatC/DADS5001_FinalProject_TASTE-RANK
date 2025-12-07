@@ -10,6 +10,9 @@
 > 6. พิมพ์ pip install -r requirements.txt
 > 7. พิมพ์ streamlit run App.py
 
+## Referrence
+https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews
+
 ## Member
 <br>
 
